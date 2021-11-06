@@ -5,4 +5,13 @@
     <string name="no" />
     <string name="add_neighbour_toolbar_name" />
     <string name="list_neighbours_toolbar_name" />
+    <string name="button_save" />
+    <string name="hint_about_me" />
+    <string name="hint_website" />
+    <string name="phone_helper_text" />
+    <string name="hint_phone" />
+    <string name="hint_address" />
+    <string name="email_helper_text" />
+    <string name="hint_name" />
+    <string name="hint_image" />
 </resources>

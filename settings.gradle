@@ -9,3 +9,4 @@ dependencyResolutionManagement {
 rootProject.name = "TP1"
 include ':app'
 include ':neighbors'
+include ':activities'

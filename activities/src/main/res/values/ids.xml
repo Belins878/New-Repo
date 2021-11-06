@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_click_me" type="id" />
+    <item name="btn_compute" type="id" />
+    <item name="text_view_nb_click" type="id" />
+</resources>
