@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="name" type="id" />
+    <item name="emailAddress" type="id" />
+    <item name="phone" type="id" />
+    <item name="save_button" type="id" />
+    <item name="about_me" type="id" />
+    <item name="website" type="id" />
+    <item name="addNeighbor" type="id" />
+</resources>

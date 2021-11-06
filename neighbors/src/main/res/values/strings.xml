@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TP1</string>
+    <string name="wantToDeleteNeighbor" />
+    <string name="yes" />
+    <string name="no" />
+    <string name="add_neighbour_toolbar_name" />
+    <string name="list_neighbours_toolbar_name" />
 </resources>

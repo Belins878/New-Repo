@@ -6,7 +6,7 @@ interface NeighborApiService {
      * Get all my Neighbors
      * @return [List]
      */
-    val neighbours: List<Neighbor>
+    val neighbours: MutableList<Neighbor>
 
     /**
      * Deletes a neighbor
